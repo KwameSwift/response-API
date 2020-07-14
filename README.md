@@ -1,7 +1,7 @@
 # response-API
 
 A response API built with node.js to handle all responses to be thrown to user after a SPECIFIC ACTION
-Messages (responses) include Error, Succes, Validation
+Messages (responses) include Error, Success, Validation
 
 REQUIREMENTS
 1. Very basic JavaScript.
